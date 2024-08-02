@@ -1,0 +1,17 @@
+{
+  "name": "nodebackendproject",
+  "version": "1.0.0",
+  "description": "First Backend Project in Node & Express JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "Express",
+    "Backend"
+  ],
+  "author": "Sayan Mukherjee",
+  "license": "ISC"
+}
