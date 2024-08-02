@@ -1,3 +1,2 @@
-# code foor backend development in JavaScript
-
-This is a project for backend development in JavaScript using Node & ExpressJS
+# FirstBackendProjectUsingNode-Express
+This is my first backend project in JavaScript using purely NodeJS and ExpressJS
